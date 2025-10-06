@@ -28,4 +28,4 @@ def submit_pipeline():
 if __name__ == "__main__":
     submit_pipeline()
 
-#This is a test which hopefully works now
+#This is a test which hopefully works now as well as in the notebook version
